@@ -6,4 +6,4 @@ For large non-linear problems, matrix-free methods are attractive since Newton's
 ### Toy Example
 Detailed demonstration different algorithms of PAC for solving the root of the following equation. 
 
-$ g(u,\lambda) = (u^2-1)(u^2 - 4) + \lambda u^2 e^{u/10} = 0$
+$g(u,\lambda) = (u^2-1)(u^2 - 4) + \lambda u^2 e^{u/10} = 0$
